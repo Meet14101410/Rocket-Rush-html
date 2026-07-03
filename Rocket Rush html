@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Rocket Rush</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="game">
+    <h1>🚀 Rocket Rush</h1>
+    <p>Press <b>Space</b> to fly and avoid obstacles!</p>
+    <button id="startBtn">Start Game</button>
+    <canvas id="gameCanvas" width="400" height="500"></canvas>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
